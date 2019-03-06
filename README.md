@@ -1,7 +1,9 @@
 # Darkbox Typora Theme
-A dark theme for Typora inspired by the [Dropbox Theme](https://theme.typora.io/theme/Dropbox/) using the colors of the [Mojave Theme](https://github.com/kimtj12/typora-mojave-theme)
+A dark theme for Typora inspired by the [Dropbox Theme](https://theme.typora.io/theme/Dropbox/) using the colours of the [Mojave Theme](https://github.com/kimtj12/typora-mojave-theme)
 
-*screenshot goes here*
+**🚧STILL A WORK IN PROGRESS🚧**
+
+![screenshot](assets/screenshot.png)
 
 ## How to install
 1. Download this repository and unzip it wherever you want.
