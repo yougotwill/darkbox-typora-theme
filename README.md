@@ -13,7 +13,7 @@ A dark theme for Typora inspired by the [Dropbox Theme](https://theme.typora.io/
 5. Select `Darkbox` from `Themes` menu option
 
 ## Thanks to
-[Ujjwal Jain](https://github.com/ujwaljain) for making the Dropbox Theme.
-[kimtj12](https://github.com/kimtj12) for making the Mojave Theme.
-[Abner Lee](http://abnerlee.github.io) for developing Typora in the first place!
+- [Ujjwal Jain](https://github.com/ujwaljain) for making the Dropbox Theme.
+- [kimtj12](https://github.com/kimtj12) for making the Mojave Theme.
+- [Abner Lee](http://abnerlee.github.io) for developing Typora in the first place!
 
